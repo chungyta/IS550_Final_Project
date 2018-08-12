@@ -28,11 +28,14 @@ link: [Follow guide on pyimagesearch code](https://github.com/chungyta/IS550_Fin
 
 
 Part 2: Classifying Images to get Head count
+link: [Image Facial Detection Script](https://github.com/chungyta/IS550_Final_Project/blob/master/Image%20Detector/Image%20Detection%20Counter.ipynb)
 
 Part 3: Uploading to Google sheet to keep log
+link: [Log of Detection](https://docs.google.com/spreadsheets/d/1u_JBNiOXtJC5Au156EJ7hdqkE26QPMNrrI7QeFw2YbI/edit?usp=sharing)
 
 Part 4: Do it over certain time period
 This step is plan to be implmented when model gets deploy. The idea is that every hour or so, the script should run to pull the lastest set of images and classify them 
 
+**Lesson Learned**
+There are a few lesson learned here. Image classification is hard to build. Local and Global Path's have to be specific, that gave me a few headaches. Difficult to find enough images for training a model, Labeling images are also very time consuming even though i did not end up using that method. OpenCV is a powerful tool on object detection. Sometime modules need to be configure to a different version for compatability. Lastly image classification and object dectection can have a huge impact on our daily lives. 
 
-There are a few steps I was not able to complete. 
