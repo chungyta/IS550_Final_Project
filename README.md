@@ -28,12 +28,15 @@ link: [Follow guide on pyimagesearch code](https://github.com/chungyta/IS550_Fin
 
 
 Part 2: Classifying Images to get Head count
+
 link: [Image Facial Detection Script](https://github.com/chungyta/IS550_Final_Project/blob/master/Image%20Detector/Image%20Detection%20Counter.ipynb)
 
 Part 3: Uploading to Google sheet to keep log
+
 link: [Log of Detection](https://docs.google.com/spreadsheets/d/1u_JBNiOXtJC5Au156EJ7hdqkE26QPMNrrI7QeFw2YbI/edit?usp=sharing)
 
 Part 4: Do it over certain time period
+
 This step is plan to be implmented when model gets deploy. The idea is that every hour or so, the script should run to pull the lastest set of images and classify them 
 
 **Lesson Learned**
